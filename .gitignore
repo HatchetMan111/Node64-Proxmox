@@ -1,0 +1,12 @@
+# Installer-Logs
+*.log
+node64-installer-*.log
+
+# Editor/OS
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Lokale Testartefakte
+/test-*/
